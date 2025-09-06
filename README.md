@@ -119,7 +119,3 @@ For full project documentation and visualization, the following files are includ
 - **Final Report (PDF):** Detailed explanation of methodology, experiments, results, ethical & societal impact.  
 - **PowerPoint Presentation (PPTX):** Summarized slides with visualizations,GIFs, results, and key findings for presentation purposes.  
 
-  
-
-
-Would you like me to also create a **shorter presentation-style README (like a 1-page portfolio showcase)**, alongside this detailed one, so you can use one for GitHub and one for presenting to evaluators?
