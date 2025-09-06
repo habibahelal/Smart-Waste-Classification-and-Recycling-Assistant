@@ -72,3 +72,13 @@ t**: best performing, strong generalization.
 - **GANs**: generated realistic but variable-quality images, highlighting augmentation challenges.  
 - **Autoencoder**: achieved denoising with **PSNR = 30.60 dB, SSIM = 0.8769**.  
 
+---
+
+## 📑 Additional Materials
+
+- **Detailed Report** → A full report is included in this repository (`/report/Smart_Waste_Report.pdf`)  
+- **Presentation** → Project pipeline visualization available in (`/presentation/Smart_Waste_Presentation.pptx`)  
+
+These provide deeper insights into the methodology, experiments, and results of this project.  
+
+---
