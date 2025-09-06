@@ -76,8 +76,8 @@ t**: best performing, strong generalization.
 
 ## 📑 Additional Materials
 
-- **Detailed Report** → A full report is included in this repository (`/report/Smart_Waste_Report.pdf`)  
-- **Presentation** → Project pipeline visualization available in (`/presentation/Smart_Waste_Presentation.pptx`)  
+- **Detailed Report** → A full report is included in this repository.
+- **Presentation** → Project pipeline visualization available.  
 
 These provide deeper insights into the methodology, experiments, and results of this project.  
 
