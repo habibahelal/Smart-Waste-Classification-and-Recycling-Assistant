@@ -64,7 +64,7 @@ The project explores **data preprocessing, augmentation, CNNs, transfer learning
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/smart-waste-assistant.git
+   git clone https://github.com/habibahelal/Smart-Waste-Classification-and-Recycling-Assistant
    cd smart-waste-assistant
 t**: best performing, strong generalization.  
 - **MobileNet**: lightweight, good trade-off between speed and accuracy.  
